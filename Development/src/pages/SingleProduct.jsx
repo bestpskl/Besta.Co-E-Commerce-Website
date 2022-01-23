@@ -118,7 +118,7 @@ const SingleProduct = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="./assets/single-product.jpg" />
+          <Image src="./assets/list-product-1-1.png" />
         </ImgContainer>
         <InfoContainer>
           <Title>BESTA DENIM JACKET</Title>
