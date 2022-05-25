@@ -8,12 +8,11 @@ This project is part of Senior Project in Information Technology for Business (I
 
 ---
 
-In the project directory, you must run:
+In the project directory, you must run these commands in terminal:
 
-### `yarn install` and `yarn start`
+### `yarn` and `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The project consists of 6 pages, you can change page in App.jsx file by editing "Home" to others
 
