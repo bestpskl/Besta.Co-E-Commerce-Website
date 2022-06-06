@@ -127,7 +127,7 @@ const SingleProduct = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="./assets/list-product-1-1.png" />
+          <Image src="https://yuedpao.com//wp-content/uploads/2021/12/H-ALMOND-BUFF-F.png" />
         </ImgContainer>
         <InfoContainer>
           <Title>BESTA BADGE HOODIES</Title>
